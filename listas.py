@@ -23,4 +23,5 @@ print(veiculos)
 print(veiculos.pop(-2))
 print(veiculos.pop())
 
-print(veiculosbkp)
+print(veiculosbkp) #imprimindo o backup
+print(veiculos)
